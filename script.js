@@ -17,3 +17,4 @@ buttonsWrapper.addEventListener("click", e => {
     }
   }
 });
+
